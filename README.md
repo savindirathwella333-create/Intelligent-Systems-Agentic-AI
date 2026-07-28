@@ -2,7 +2,7 @@
 
 An agentic AI assistant for a small Sri Lankan manufacturing business, answering questions about **inventory & production** and **HR & compliance (EPF/ETF)** by retrieving grounded answers from the company's own policy documents.
 
-**Live demo:** [Insert your live Streamlit URL here]
+**Live demo:** 
 **GitHub repo:** https://github.com/savindirathwella333-create/Intelligent-Systems-Agentic-AI
 
 ---
