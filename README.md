@@ -9,7 +9,7 @@ An agentic AI assistant for a small Sri Lankan manufacturing business, answering
 
 ## Project Description
 
-Small and medium manufacturing businesses in Sri Lanka rely on scattered internal documents — SOPs, HR policies, statutory compliance rules — that staff have to search manually to answer routine questions. This project addresses that with a Retrieval-Augmented Generation (RAG) system fronted by multiple cooperating agents: a router that classifies each incoming question, domain-specialist agents (inventory/production and HR/compliance) that retrieve and answer from the relevant document set, and a reflection agent that checks each answer against its source material before it's shown to the user.
+Small and medium manufacturing businesses in Sri Lanka rely on scattered internal documents - SOPs, HR policies, statutory compliance rules - that staff have to search manually to answer routine questions. This project addresses that with a Retrieval-Augmented Generation (RAG) system fronted by multiple cooperating agents: a router that classifies each incoming question, domain-specialist agents (inventory/production and HR/compliance) that retrieve and answer from the relevant document set, and a reflection agent that checks each answer against its source material before it's shown to the user.
 
 <!-- TODO (you write this): 1-2 more sentences on WHY you picked this specific problem —
 your own connection to it (e.g. prior work building an ERP system for a similar business)
