@@ -1,0 +1,7 @@
+streamlit
+openai
+python-dotenv
+chromadb
+sentence-transformers
+langgraph
+pysqlite3-binary
