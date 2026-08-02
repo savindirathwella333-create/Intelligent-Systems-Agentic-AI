@@ -4,4 +4,4 @@ python-dotenv
 chromadb
 sentence-transformers
 langgraph
-pysqlite3-binary
+pysqlite3-binary; sys_platform != "win32"
