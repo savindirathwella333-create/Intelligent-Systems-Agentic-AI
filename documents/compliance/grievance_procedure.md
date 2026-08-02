@@ -23,13 +23,13 @@ If a grievance isn't resolved at the HR level, it's escalated to a
 
 ## Timeframe
 
-Grievances are expected to be addressed within a rough timeframe
-**[timeframe to be specified — e.g. 10 working days]** from when
-they're first raised, rather than left open-ended, though the
-committee stage may take longer for more complex cases.
+Grievances are expected to be addressed within **one week** from when
+they're first raised, though the committee stage may take longer for
+more complex, escalated cases.
 
 ## Responsibilities
 
 - **Employee**: raises the concern with HR
-- **HR**: handles initial review and resolution attempt
+- **HR**: handles initial review and resolution attempt within the
+  one-week target
 - **Grievance Committee**: reviews escalated, unresolved grievances
