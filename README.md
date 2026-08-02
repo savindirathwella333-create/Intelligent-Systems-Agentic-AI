@@ -2,7 +2,7 @@
 
 An agentic AI assistant for a Sri Lankan soap and cosmetics manufacturing SME. It answers staff questions about **inventory & production** and **HR & compliance** by retrieving grounded answers from the company's own policy and procedure documents — and flags any answer it cannot verify against those documents.
 
-**Live demo:** [Insert your Streamlit Cloud URL here]
+**Live demo:** https://intelligent-systems-agentic-ai-nekaavvaxmopyidfctj6ns.streamlit.app/
 **Repository:** https://github.com/savindirathwella333-create/Intelligent-Systems-Agentic-AI
 
 ---
