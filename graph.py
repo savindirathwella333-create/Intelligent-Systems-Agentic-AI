@@ -92,7 +92,7 @@ def load_and_chunk_domain(domain: str) -> list[dict]:
     import glob
     records = []
     for filepath in glob.glob(f"documents/{domain}/*.md") + glob.glob(f"documents/{domain}/*.txt"):
-        with open(filepath, "r") as f:
+        with open(filepath, "r", encoding="utf-8") as f:
             text = f.read()
         for i, chunk in enumerate(chunk_text(text)):
             records.append({"id": f"{filepath}-{i}", "text": chunk, "source": filepath})
